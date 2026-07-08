@@ -11,7 +11,7 @@ Follow these steps to download the repository and run the website locally on you
 
 ### 1. Clone the Repository
 Copy and paste the following command into your terminal to clone the project:
-git clone [https://github.com/your-username/BharatYatra.git](https://github.com/Anish4104/BharatYatra.git)
+git clone [https://github.com/Anish4104/BharatYatra.git](https://github.com/Anish4104/BharatYatra.git)
 
 ###2. Navigate to the Directory
 Change your current working directory to the project folder:
